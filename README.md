@@ -35,7 +35,7 @@ Este comando lo dará directamente en la consola de MySQL y no será incluido en
      - Otro comando para otorgarle al usuario recién creado todos los permisos de acceso en la base de datos controlescolar_ej2021
    - Vendrá después un conjunto de sentencias para crear 3 tablas. Las tablas por crear serán algunas de las que se muestran en la siguiente figura (con la aclaración que a los nombres de las tablas que se muestran en la figura le tendrá que agregar `_XXXXXXXX` (donde XXXXXXXX es su matrícula):
 
-   ![Diagrama Entidad-Relación de Base de Datos controlescolar](https://github.com/rsolisuaz/act03_desappint_ej2021/blob/master/imagenes/ModeloControlEscolar.png)
+   ![Diagrama Entidad-Relación de Base de Datos controlescolar](https://github.com/rsolisuaz/Prac05LabPOO2EJ2021/blob/master/ModeloControlEscolar.png)
      - Aspectos importantes a notar sobre la figura:
        - Que un campo tenga una llave amarilla a la izquierda indica que es la llave primaria
        - Que tenga un rombo con relleno rojo a la izquierda indica que es una llave foránea, es decir, que su valor es la llave primaria en alguna otra tabla (**PERO NO NECESITAN INDICAR EN SU SCRIPT QUE ES DE HECHO UNA LLAVE FORÁNEA**)
